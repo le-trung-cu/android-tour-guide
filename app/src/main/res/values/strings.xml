@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="heading">Hà Nội, Việt Nam</string>
+    <string name="atm">ATM</string>
+    <string name="hotel">Hotel</string>
+    <string name="hospital">Hospital</string>
+    <string name="metro">Metro</string>
+
+
+</resources>
